@@ -21,7 +21,7 @@ jobs:
 
       - name: Build Backend
         run: |
-          docker build -t shivaay8853/devops-backend:latest ./backend
+          docker build -t shivaay8853/django-backend:latest ./backend
 
       - name: Push Backend
         run: |
