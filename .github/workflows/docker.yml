@@ -34,3 +34,4 @@ jobs:
       - name: Push Frontend 
         run: |
           docker push shivaay8853/react-frontend:latest
+# Trigger Actions
